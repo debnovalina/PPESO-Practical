@@ -1,7 +1,7 @@
 Impact of canopy properties on bottom of the atmosphere (BOA) reflectance.
 
 1. Fixing the LAI, study the relation between leaf chlorophyll content and the spectral reflectance in the VNIR (0.4~\mu m to 2.5~\mu m). Which of the Sentinel-2 MSI bands is most sensitive to chlorophyll content?
-    Bands B4 (Red) and B5/B6 (Red Edge) show the greatest sensitivity to chlorophyll variations. Chlorophyll strongly absorbs light, particularly in the blue and red regions. Variations in chlorophyll content significantly affect reflectance in this range, particularly in the red band.
+    Bands B5 to B8 show the greatest sensitivity to chlorophyll variations. Chlorophyll strongly absorbs light, particularly in the blue and red regions. Variations in chlorophyll content significantly affect reflectance in this range, particularly in the red band.
 
 2. Fixing the chlorophyll content to a reasonable (typical?) value, study now the relation between LAI and the spectral reflectance.
     A typical value for leaf chlorophyll content in healthy vegetation is 40~\mu/cm2.
